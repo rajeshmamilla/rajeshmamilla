@@ -48,5 +48,5 @@ React-based movie discovery app integrated with TMDB API, deployed on Vercel.
 
 ## Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/rajeshmamilla/)
-[![Email](rajeshmamilla206@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajesh_Mamilla-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajeshmamilla)
+[![Email](https://img.shields.io/badge/Email-rajeshmamilla206@gmail.com-red?style=flat&logo=gmail)](mailto:rajeshmamilla206@gmail.com)
