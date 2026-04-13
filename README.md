@@ -1,6 +1,6 @@
 # Hi, I'm Rajesh Mamilla 👋
 
-Full Stack Java Developer | Spring Boot | React.js | Hyderabad, India
+Full Stack Java Developer | Spring Boot | React.js | MySQL |Postgre SQL| Hyderabad, India
 
 ---
 
